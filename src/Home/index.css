@@ -1,0 +1,41 @@
+.h11 {
+  color: black;
+  margin: 10px;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.li {
+  margin: 20px;
+  width: 200px;
+}
+.im {
+  width: 100px;
+  height: 100px;
+}
+.div {
+  display: flex;
+}
+.p {
+  margin: 20px;
+  font-weight: bold;
+}
+.fa {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.rb {
+  background-color: blue;
+  color: white;
+  height: 20p;
+  width: 60px;
+}
+.lll {
+  text-decoration: none;
+  color: black;
+}
